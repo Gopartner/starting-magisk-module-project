@@ -1,0 +1,15 @@
+# Abaikan seluruh isi folder results
+results/
+
+# Abaikan file sementara atau cache yang mungkin dihasilkan
+*.log
+*.tmp
+*.bak
+
+# Abaikan file backup editor
+*~
+*.swp
+
+# Abaikan file ZIP jika hasil akhir dikompresi
+*.zip
+
